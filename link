@@ -1,0 +1,16 @@
+
+<!DOCTYPE html>
+<html lang="pt" dir="ltr">
+<head>
+    <meta charset='utf-8'>
+    <title>Tipos de gatos</title>
+    <!---
+--->
+    <link rel="stylesheet" href="style.css">
+  
+</head>
+ <body>
+    <h1>Cuidados Com Os Gatinhos;</h1>
+ 
+ <ul>
+      <li   class "itens"> Gatos Brancos;
